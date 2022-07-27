@@ -1,8 +1,8 @@
-.url
+a[href*="https"]
 {
     color: red;
 }
-.text
+.holder > p
 {
     font-size: 24px;
 }
